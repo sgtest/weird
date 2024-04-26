@@ -4,6 +4,7 @@ The intent of this repo is to provide a collection of edge cases for exploratory
 
 This repo is organized by type of edge case:
 
+- [`blame`](./blame) contains files with weird git blames
 - [`commits`](./commits) contains weird commits (or at least docs for tags containing weird commits)
 - [`content`](./content) contains files with unusual contents
 - [`deep`](./deep) is a 50-level nested directory tree

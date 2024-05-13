@@ -14,7 +14,7 @@ This repo is organized by type of edge case:
 
 ## TODO
 
-- File links
+- Hard links
 - Git submodules
 - Poorly-formed commits
 - "a symbolic link whose value is a zip file (not a path)" (courtesy of Keegan)

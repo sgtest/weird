@@ -7,7 +7,7 @@ This repo is organized by type of edge case:
 - [`blame`](./blame) contains files with weird git blames
 - [`commits`](./commits) contains weird commits (or at least docs for tags containing weird commits)
 - [`content`](./content) contains files with unusual contents
-- [`deep`](./deep) is a 50-level nested directory tree
+- [`dirs`](./deep) contains weird directories
 - [`filenames`](./filenames) contains files with unusual names
 - [`language`](./language) contains files that might mess with language detection
 - [`size`](./size) contains files with random contents of various size up to 10MB

@@ -10,7 +10,6 @@ This repo is organized by type of edge case:
 - [`dirs`](./deep) contains weird directories
 - [`filenames`](./filenames) contains files with unusual names
 - [`language`](./language) contains files that might mess with language detection
-- [`size`](./size) contains files with random contents of various size up to 10MB
 
 ## TODO
 
@@ -19,4 +18,3 @@ This repo is organized by type of edge case:
 - Poorly-formed commits
 - "a symbolic link whose value is a zip file (not a path)" (courtesy of Keegan)
 - Files with expensive syntax highlighting
--

@@ -10,6 +10,7 @@ This repo is organized by type of edge case:
 - [`dirs`](./deep) contains weird directories
 - [`filenames`](./filenames) contains files with unusual names
 - [`language`](./language) contains files that might mess with language detection
+- [`links`](./links) contains weird file links
 
 ## TODO
 

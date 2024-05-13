@@ -9,3 +9,7 @@ This directory contains a variety of weird symbolic links.
 - `link-to-stdin` is a link to `/dev/fd/0`
 - `link-to-stdout` is a link to `/dev/fd/1`
 - `link-to-stderr` is a link to `/dev/fd/2`
+- `parent-dir` is a link to `..`
+- `tmp-dir` is a link to `/tmp`
+- `root-dir` is a link to `/`
+- `current-dir` is a link to `.`
